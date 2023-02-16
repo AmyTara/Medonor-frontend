@@ -120,49 +120,7 @@ class about extends Component {
 
 
 
-        <span className="brmedium"></span>
-        <div className="about">
-          <h1 className="text-center" > Our Team </h1>
-        </div>
-        <br></br>
-
-        <div className="conttainer">
-          <Row>
-            <Col md={3}>
-              <img src={ni} alt="..." className="img-circle pict" />
-              <br></br>
-              <br></br>
-              <h4 className="n1"><b>Nisha</b></h4>
-              <h4 className="r1" style={{marginLeft:"-60px"}}>Backend and Frontend</h4>
-            </Col>
-            <Col md={3}>
-
-              <img src={gr} alt="..." className="img-circle pict" />
-
-              <br></br>
-              <br></br>
-              <h4 className="n2"><b>Gursimran Kaur</b></h4>
-              <h4 className="r2">Frontend</h4>
-
-            </Col>
-            <Col md={3}>
-
-              <img src={ad} alt="..." className="img-circle pict" />
-              <br></br>
-              <br></br>
-              <h4 className="n3"><b>Aditi Panigrahi</b></h4>
-              <h4 className="r3">Frontend</h4>
-            </Col>
-            <Col md={3}>
-
-              <img src={jatin} alt="..." className="img-circle pict" />
-              <br></br>
-              <br></br>
-              <h4 className="n4"><b>Jatin Gupta</b></h4>
-              <h4 className="r4">Frontend</h4>
-            </Col>
-          </Row>
-        </div>
+        
 
         <span className="brmedium"></span>
         </Container>
